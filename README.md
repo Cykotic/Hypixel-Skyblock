@@ -6,8 +6,6 @@ This project is a simple Node.js application that adjusts the given `x`, `y`, an
 - Subtract 44 from `y`
 - Add 18 to `z`
 
-It also includes a batch file to run the application easily on Windows.
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (Ensure it is installed and added to your system PATH)
@@ -19,7 +17,7 @@ It also includes a batch file to run the application easily on Windows.
 
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the folder containing these files.
-4. Enter the `x`, `y`, and `z` values separated by spaces when prompted.
+3. Enter the `x`, `y`, and `z` values separated by spaces when prompted.
 
 ### Example Input and Output
 
